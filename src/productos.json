@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Producto prueba 1",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Producto prueba 2",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc1234",
+    "stock": 25,
+    "id": 2
+  }
+  ,{
+    "title": "Producto prueba 3",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc12345",
+    "stock": 25,
+    "id": 3
+  },
+  {
+    "title": "Producto prueba 4",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc123456",
+    "stock": 25,
+    "id": 4
+  },
+  {
+    "title": "Producto prueba 5",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc1234567",
+    "stock": 25,
+    "id": 5
+  }
+  ,{
+    "title": "Producto prueba 6",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc12345678",
+    "stock": 25,
+    "id": 6
+  },
+  {
+    "title": "Producto prueba 7",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc123456789",
+    "stock": 25,
+    "id": 7
+  },
+  {
+    "title": "Producto prueba 8",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc12345678910",
+    "stock": 25,
+    "id": 8
+  }
+  ,{
+    "title": "Producto prueba 9",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc1234567891011",
+    "stock": 25,
+    "id": 9
+  }
+  ,{
+    "title": "Producto prueba 10",
+    "description": "Este es un producto prueba",
+    "price": 400,
+    "thumbnail": "Sin imagen",
+    "code": "abc123456789101112",
+    "stock": 25,
+    "id": 10
+  }
+  
+]
